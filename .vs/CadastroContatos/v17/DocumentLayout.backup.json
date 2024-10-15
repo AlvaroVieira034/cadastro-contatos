@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Treinamento\\c#\\CadastroContatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\repository\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\repository\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\repository\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|c:\\treinamento\\c#\\cadastrocontatos\\cadastrocontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47005834-67DC-49A1-BCBB-97D648D20E11}|CadastroContatos\\CadastroContatos.csproj|solutionrelative:cadastrocontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,38 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastroContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "CadastroContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T21:42:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Criar.cshtml",
               "DocumentMoniker": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Views\\Contato\\Criar.cshtml",
               "RelativeDocumentMoniker": "CadastroContatos\\Views\\Contato\\Criar.cshtml",
               "ToolTip": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Views\\Contato\\Criar.cshtml",
               "RelativeToolTip": "CadastroContatos\\Views\\Contato\\Criar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-15T11:42:55.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "CadastroContatos\\Controllers\\ContatoController.cs",
               "ToolTip": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "CadastroContatos\\Controllers\\ContatoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:43:31.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ContatoRepository.cs",
               "DocumentMoniker": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Repository\\ContatoRepository.cs",
               "RelativeDocumentMoniker": "CadastroContatos\\Repository\\ContatoRepository.cs",
               "ToolTip": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Repository\\ContatoRepository.cs",
               "RelativeToolTip": "CadastroContatos\\Repository\\ContatoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:00:23.463Z",
               "EditorCaption": ""
@@ -79,14 +96,14 @@
               "RelativeDocumentMoniker": "CadastroContatos\\Repository\\IContatoRepository.cs",
               "ToolTip": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Repository\\IContatoRepository.cs",
               "RelativeToolTip": "CadastroContatos\\Repository\\IContatoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:01:11.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ContatoModel.cs",
               "DocumentMoniker": "C:\\Treinamento\\c#\\CadastroContatos\\CadastroContatos\\Models\\ContatoModel.cs",
               "RelativeDocumentMoniker": "CadastroContatos\\Models\\ContatoModel.cs",
